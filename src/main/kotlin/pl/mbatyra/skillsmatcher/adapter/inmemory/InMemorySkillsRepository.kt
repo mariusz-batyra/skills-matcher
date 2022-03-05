@@ -1,9 +1,8 @@
 package pl.mbatyra.skillsmatcher.adapter.inmemory
 
-import org.springframework.stereotype.Component
 import pl.mbatyra.skillsmatcher.domain.SkillsRepository
 
-@Component
+//@Component
 class InMemorySkillsRepository : SkillsRepository {
 
     private val skills = mutableMapOf(

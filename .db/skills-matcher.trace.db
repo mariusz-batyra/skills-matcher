@@ -1,0 +1,6 @@
+2022-03-05 09:57:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SKILL_ENTITY" not found; SQL statement:
+select skillentit0_.id as id1_0_, skillentit0_.category_name as category2_0_, skillentit0_.skill_name as skill_na3_0_ from skill_entity skillentit0_ [42102-200]
+2022-03-05 09:57:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SKILL_ENTITY" not found; SQL statement:
+select skillentit0_.id as id1_0_, skillentit0_.category_name as category2_0_, skillentit0_.skill_name as skill_na3_0_ from skill_entity skillentit0_ [42102-200]
